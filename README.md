@@ -13,7 +13,8 @@ Still WIP:
 - TwitterBot (using twitter api)
 - FitnessBot (using Postgres DB but still up for debate)
 
-Backlog:
+Backlog (in prio):
+- ChatGPTBot (exploring various POCs with this)
 - GithubBot
 - PokerBot
 - ChessBot
